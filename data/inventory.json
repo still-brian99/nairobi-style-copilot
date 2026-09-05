@@ -1,0 +1,6 @@
+[
+  {"sku":"TS-BLK-M","category":"T-shirt","size":"M","colour":"Black","stock":8,"cost_kes":650,"price_kes":1200},
+  {"sku":"TS-BLK-L","category":"T-shirt","size":"L","colour":"Black","stock":3,"cost_kes":650,"price_kes":1200},
+  {"sku":"SH-CRM-L","category":"Shirt","size":"L","colour":"Cream","stock":2,"cost_kes":1400,"price_kes":2600},
+  {"sku":"TR-BEI-32","category":"Trouser","size":"32","colour":"Beige","stock":5,"cost_kes":1800,"price_kes":3200}
+]

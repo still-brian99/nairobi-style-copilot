@@ -1,0 +1,12 @@
+{
+  "business": "Nairobi Men's Fashion Pilot",
+  "location": "Nairobi, Kenya",
+  "currency": "KES",
+  "sales_channels": ["WhatsApp", "Instagram", "TikTok"],
+  "model": "small-batch / pre-order friendly",
+  "weekly_targets": {
+    "qualified_leads": 50,
+    "orders": 15,
+    "repeat_customers": 3
+  }
+}
